@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-dark {
+  background-color: black !important;
+}
+
+.text-Dark {
+  color: white !important;
+}
+#ssss{
+  border: 1px solid blue;
+}
